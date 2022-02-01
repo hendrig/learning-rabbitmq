@@ -17,3 +17,4 @@ docker run -d --hostname my-rabbit --name rabbit13 -p 8080:15672 -p 5672:5672 -p
 Each step of the tutorial have its own folder.
 - [Step 1: "Hello World!"](Step1/README.md)
 - [Step 2: "Work Queues"](Step2/README.md)
+- [Step 3: "Publish/Subscribe"](/Step3/)
